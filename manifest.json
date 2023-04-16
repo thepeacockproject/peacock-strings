@@ -1,9 +1,10 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Incredible Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
-	"frameworkVersion": "2.15.1"
+	"id": "thepeacockproject.peacockstrings",
+	"name": "Peacock Strings",
+	"description": "Adds Peacock's strings to the game without the use of dynamic resources.",
+	"authors": ["The Peacock Project"],
+	"frameworkVersion": "2.15.1",
+	"contentFolders": ["content"]
 }
