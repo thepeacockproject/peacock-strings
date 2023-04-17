@@ -3,6 +3,7 @@
 Adds Peacock's strings to the game without the use of dynamic resources.
 
 **How to Update**
+
 To update this mod, you can get the latest version of `h3_locale.json` from the `resources` folder in the
 main [Peacock repository](https://github.com/thepeacockproject/Peacock) and replace `peacockstrings.locr.json`
 with it (keeping the file name `peacockstrings.locr.json`) and changing the `hash` to
