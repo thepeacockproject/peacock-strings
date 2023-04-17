@@ -1,10 +1,11 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"id": "thepeacockproject.peacockstrings",
 	"name": "Peacock Strings",
 	"description": "Adds Peacock's strings to the game without the use of dynamic resources.",
 	"authors": ["The Peacock Project"],
 	"frameworkVersion": "2.15.1",
-	"contentFolders": ["content"]
+	"contentFolders": ["content"],
+	"updateCheck": "https://github.com/thepeacockproject/peacock-strings/releases/latest/download/updates.json"
 }
