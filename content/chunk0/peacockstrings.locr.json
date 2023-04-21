@@ -168,7 +168,7 @@
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT3_HUD": "Eliminate Bana Malhotra",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_DESC": "Eliminate Aravind Goswami while disguised as a Personal Trainer after pacifying them with a Kettlebell.",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_HUD": "Eliminate Aravind Goswami",
-			"UI_PEACOCK_TARGETS_REMAINING": "Targets remaining: {0}",
+			"UI_PEACOCK_TARGETS_REMAINING": "Targets remaining",
 			"UI_PEACOCK_TARGETS": "Targets",
 			"UI_PEACOCK_ELIMINATE_TARGETS": "Eliminate targets"
 		},
@@ -336,7 +336,7 @@
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT3_HUD": "Eliminate Bana Malhotra",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_DESC": "Eliminate Aravind Goswami while disguised as a Personal Trainer after pacifying them with a Kettlebell.",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_HUD": "Eliminate Aravind Goswami",
-			"UI_PEACOCK_TARGETS_REMAINING": "Targets remaining: {0}",
+			"UI_PEACOCK_TARGETS_REMAINING": "Targets remaining",
 			"UI_PEACOCK_TARGETS": "Targets",
 			"UI_PEACOCK_ELIMINATE_TARGETS": "Eliminate targets"
 		},
@@ -504,7 +504,7 @@
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT3_HUD": "Eliminate Bana Malhotra",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_DESC": "Eliminate Aravind Goswami while disguised as a Personal Trainer after pacifying them with a Kettlebell.",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_HUD": "Eliminate Aravind Goswami",
-			"UI_PEACOCK_TARGETS_REMAINING": "Targets remaining: {0}",
+			"UI_PEACOCK_TARGETS_REMAINING": "Targets remaining",
 			"UI_PEACOCK_TARGETS": "Targets",
 			"UI_PEACOCK_ELIMINATE_TARGETS": "Eliminate targets"
 		},
@@ -672,7 +672,7 @@
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT3_HUD": "Eliminate Bana Malhotra",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_DESC": "Eliminate Aravind Goswami while disguised as a Personal Trainer after pacifying them with a Kettlebell.",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_HUD": "Eliminate Aravind Goswami",
-			"UI_PEACOCK_TARGETS_REMAINING": "Targets remaining: {0}",
+			"UI_PEACOCK_TARGETS_REMAINING": "Targets remaining",
 			"UI_PEACOCK_TARGETS": "Targets",
 			"UI_PEACOCK_ELIMINATE_TARGETS": "Eliminate targets"
 		},
@@ -840,7 +840,7 @@
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT3_HUD": "Eliminate Bana Malhotra",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_DESC": "Eliminate Aravind Goswami while disguised as a Personal Trainer after pacifying them with a Kettlebell.",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_HUD": "Eliminate Aravind Goswami",
-			"UI_PEACOCK_TARGETS_REMAINING": "Targets remaining: {0}",
+			"UI_PEACOCK_TARGETS_REMAINING": "Targets remaining",
 			"UI_PEACOCK_TARGETS": "Targets",
 			"UI_PEACOCK_ELIMINATE_TARGETS": "Eliminate targets"
 		},
@@ -1008,7 +1008,7 @@
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT3_HUD": "Eliminate Bana Malhotra",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_DESC": "Eliminate Aravind Goswami while disguised as a Personal Trainer after pacifying them with a Kettlebell.",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_HUD": "Eliminate Aravind Goswami",
-			"UI_PEACOCK_TARGETS_REMAINING": "Осталось целей: {0}",
+			"UI_PEACOCK_TARGETS_REMAINING": "Осталось целей",
 			"UI_PEACOCK_TARGETS": "Targets",
 			"UI_PEACOCK_ELIMINATE_TARGETS": "Eliminate targets"
 		},
@@ -1176,7 +1176,7 @@
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT3_HUD": "Eliminate Bana Malhotra",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_DESC": "Eliminate Aravind Goswami while disguised as a Personal Trainer after pacifying them with a Kettlebell.",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_HUD": "Eliminate Aravind Goswami",
-			"UI_PEACOCK_TARGETS_REMAINING": "目标剩余： {0}",
+			"UI_PEACOCK_TARGETS_REMAINING": "目标剩余",
 			"UI_PEACOCK_TARGETS": "Targets",
 			"UI_PEACOCK_ELIMINATE_TARGETS": "Eliminate targets"
 		},
@@ -1344,7 +1344,7 @@
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT3_HUD": "Eliminate Bana Malhotra",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_DESC": "Eliminate Aravind Goswami while disguised as a Personal Trainer after pacifying them with a Kettlebell.",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_HUD": "Eliminate Aravind Goswami",
-			"UI_PEACOCK_TARGETS_REMAINING": "Targets remaining: {0}",
+			"UI_PEACOCK_TARGETS_REMAINING": "Targets remaining",
 			"UI_PEACOCK_TARGETS": "Targets",
 			"UI_PEACOCK_ELIMINATE_TARGETS": "Eliminate targets"
 		},
@@ -1512,7 +1512,7 @@
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT3_HUD": "Eliminate Bana Malhotra",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_DESC": "Eliminate Aravind Goswami while disguised as a Personal Trainer after pacifying them with a Kettlebell.",
 			"UI_PEACOCK_LONGBUSH_GYM_ACCIDENT4_HUD": "Eliminate Aravind Goswami",
-			"UI_PEACOCK_TARGETS_REMAINING": "Targets remaining: {0}",
+			"UI_PEACOCK_TARGETS_REMAINING": "Targets remaining",
 			"UI_PEACOCK_TARGETS": "Targets",
 			"UI_PEACOCK_ELIMINATE_TARGETS": "Eliminate targets"
 		}
