@@ -1,11 +1,11 @@
 {
-	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "1.6.0",
-	"id": "thepeacockproject.peacockstrings",
-	"name": "Peacock Strings",
-	"description": "Adds Peacock's strings to the game without the use of dynamic resources.",
-	"authors": ["The Peacock Project"],
-	"frameworkVersion": "2.23.0",
-	"contentFolders": ["content"],
-	"updateCheck": "https://github.com/thepeacockproject/peacock-strings/releases/latest/download/updates.json"
+    "$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
+    "version": "1.6.0",
+    "id": "thepeacockproject.peacockstrings",
+    "name": "Peacock Strings",
+    "description": "Adds Peacock's strings to the game without the use of dynamic resources.",
+    "authors": ["The Peacock Project"],
+    "frameworkVersion": "2.23.0",
+    "contentFolders": ["content"],
+    "updateCheck": "https://github.com/thepeacockproject/peacock-strings/releases/latest/download/updates.json"
 }
