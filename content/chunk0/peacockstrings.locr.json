@@ -236,7 +236,8 @@
             "UI_PEACOCK_POWERED_BY": "Powered by",
             "UI_PEACOCK_BRANDING": "The Peacock Project",
             "UI_PEACOCK_GO_TO_DESTINATION": "Go to Destination",
-            "UI_PEACOCK_GO_OFFLINE": "Go Offline"
+            "UI_PEACOCK_GO_OFFLINE": "Go Offline",
+            "UI_PEACOCK_CHALLENGES_MIAMI_DOLPHIN_NAME": "Call of the Blue"
         },
         "fr": {
             "UI_DRP_001": "UI_DRP_001",
@@ -470,7 +471,8 @@
             "UI_PEACOCK_POWERED_BY": "Powered by",
             "UI_PEACOCK_BRANDING": "The Peacock Project",
             "UI_PEACOCK_GO_TO_DESTINATION": "Go to Destination",
-            "UI_PEACOCK_GO_OFFLINE": "Go Offline"
+            "UI_PEACOCK_GO_OFFLINE": "Go Offline",
+            "UI_PEACOCK_CHALLENGES_MIAMI_DOLPHIN_NAME": "Call of the Blue"
         },
         "it": {
             "UI_DRP_001": "UI_DRP_001",
@@ -704,7 +706,8 @@
             "UI_PEACOCK_POWERED_BY": "Powered by",
             "UI_PEACOCK_BRANDING": "The Peacock Project",
             "UI_PEACOCK_GO_TO_DESTINATION": "Go to Destination",
-            "UI_PEACOCK_GO_OFFLINE": "Go Offline"
+            "UI_PEACOCK_GO_OFFLINE": "Go Offline",
+            "UI_PEACOCK_CHALLENGES_MIAMI_DOLPHIN_NAME": "Call of the Blue"
         },
         "de": {
             "UI_DRP_001": "",
@@ -938,7 +941,8 @@
             "UI_PEACOCK_POWERED_BY": "Bereitgestellt von",
             "UI_PEACOCK_BRANDING": "The Peacock Project",
             "UI_PEACOCK_GO_TO_DESTINATION": "Gehe zum Zielort",
-            "UI_PEACOCK_GO_OFFLINE": "Gehe Offline"
+            "UI_PEACOCK_GO_OFFLINE": "Gehe Offline",
+            "UI_PEACOCK_CHALLENGES_MIAMI_DOLPHIN_NAME": "Call of the Blue"
         },
         "es": {
             "UI_DRP_001": "UI_DRP_001",
@@ -1172,7 +1176,8 @@
             "UI_PEACOCK_POWERED_BY": "Powered by",
             "UI_PEACOCK_BRANDING": "The Peacock Project",
             "UI_PEACOCK_GO_TO_DESTINATION": "Go to Destination",
-            "UI_PEACOCK_GO_OFFLINE": "Go Offline"
+            "UI_PEACOCK_GO_OFFLINE": "Go Offline",
+            "UI_PEACOCK_CHALLENGES_MIAMI_DOLPHIN_NAME": "Call of the Blue"
         },
         "ru": {
             "UI_DRP_001": "UI_DRP_001",
@@ -1406,7 +1411,8 @@
             "UI_PEACOCK_POWERED_BY": "Добро пожаловать на",
             "UI_PEACOCK_BRANDING": "Сервер Peacock",
             "UI_PEACOCK_GO_TO_DESTINATION": "Перейти",
-            "UI_PEACOCK_GO_OFFLINE": "Выйти из сети"
+            "UI_PEACOCK_GO_OFFLINE": "Выйти из сети",
+            "UI_PEACOCK_CHALLENGES_MIAMI_DOLPHIN_NAME": "Call of the Blue"
         },
         "cn": {
             "UI_DRP_001": "UI_DRP_001",
@@ -1640,7 +1646,8 @@
             "UI_PEACOCK_POWERED_BY": "Powered by",
             "UI_PEACOCK_BRANDING": "The Peacock Project",
             "UI_PEACOCK_GO_TO_DESTINATION": "Go to Destination",
-            "UI_PEACOCK_GO_OFFLINE": "Go Offline"
+            "UI_PEACOCK_GO_OFFLINE": "Go Offline",
+            "UI_PEACOCK_CHALLENGES_MIAMI_DOLPHIN_NAME": "Call of the Blue"
         },
         "tc": {
             "UI_DRP_001": "UI_DRP_001",
@@ -1874,7 +1881,8 @@
             "UI_PEACOCK_POWERED_BY": "Powered by",
             "UI_PEACOCK_BRANDING": "The Peacock Project",
             "UI_PEACOCK_GO_TO_DESTINATION": "Go to Destination",
-            "UI_PEACOCK_GO_OFFLINE": "Go Offline"
+            "UI_PEACOCK_GO_OFFLINE": "Go Offline",
+            "UI_PEACOCK_CHALLENGES_MIAMI_DOLPHIN_NAME": "Call of the Blue"
         },
         "jp": {
             "UI_DRP_001": "UI_DRP_001",
@@ -2108,7 +2116,8 @@
             "UI_PEACOCK_POWERED_BY": "Powered by",
             "UI_PEACOCK_BRANDING": "The Peacock Project",
             "UI_PEACOCK_GO_TO_DESTINATION": "Go to Destination",
-            "UI_PEACOCK_GO_OFFLINE": "Go Offline"
+            "UI_PEACOCK_GO_OFFLINE": "Go Offline",
+            "UI_PEACOCK_CHALLENGES_MIAMI_DOLPHIN_NAME": "Call of the Blue"
         }
     }
 }
