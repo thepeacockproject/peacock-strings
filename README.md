@@ -1,7 +1,5 @@
 # Peacock Strings
 
-## THIS MOD REQUIRES FEATURES NOT YET IN SIMPLE MOD FRAMEWORK, AWAIT A RELEASE WITH THESE FEATURES
-
 Adds Peacock's strings to the game without the use of dynamic resources.
 
 **Installation Instructions**
