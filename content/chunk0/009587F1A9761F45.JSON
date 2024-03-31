@@ -17,13 +17,6 @@
                     }
                 },
                 {
-                    "case": "elusive",
-                    "return": {
-                        "selectable": true,
-                        "pressable": true
-                    }
-                },
-                {
                     "case": "escalation",
                     "return": {
                         "selectable": false,
@@ -117,13 +110,6 @@
                     }
                 },
                 {
-                    "case": "elusive",
-                    "return": {
-                        "selectable": true,
-                        "pressable": true
-                    }
-                },
-                {
                     "case": "placeholder",
                     "return": {
                         "selectable": false,
@@ -198,13 +184,6 @@
                     "return": {
                         "selectable": false,
                         "pressable": false
-                    }
-                },
-                {
-                    "case": "elusive",
-                    "return": {
-                        "selectable": true,
-                        "pressable": true
                     }
                 },
                 {
